@@ -9,4 +9,3 @@ Here are some quick things about me:
 - 📫 The best way to reach me is to send me an email.
 - 🌱 I’m currently learning NodeJs.
 - 🗣 I speak Portuguese and English.
--->
